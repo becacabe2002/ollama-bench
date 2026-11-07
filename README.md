@@ -1,0 +1,1 @@
+This is a benchmark suit which used to record result and choose default Ollama model for AITY Project.
