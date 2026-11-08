@@ -1,0 +1,7 @@
+requests
+psutil
+pyyaml
+pandas
+deepeval
+openai
+tiktoken
