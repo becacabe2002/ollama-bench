@@ -2,6 +2,6 @@ requests
 psutil
 pyyaml
 pandas
-deepeval
+deepeval==4.3.3
 openai
 tiktoken
