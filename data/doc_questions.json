@@ -1,0 +1,7 @@
+[
+    "Does the summary report that the research combined three large-scale experiments with roughly 76,977 participants, 19 LLMs, and 707 political issues?",
+    "Does the summary state that post-training and prompting methods (approximately 51% and 27% gains) were bigger drivers of persuasiveness than model scale or personalization?",
+    "Does the summary identify information density (packing conversations with fact-checkable claims) as the primary mechanism behind effective AI persuasion?",
+    "Does the summary note that the same factors which increased persuasiveness systematically decreased the factual accuracy of the AI's claims?",
+    "Does the summary mention both that conversational AI was substantially more persuasive than a static AI-written message, and that a meaningful share of the attitude change (approximately 36-42%) persisted one month later?"
+]
