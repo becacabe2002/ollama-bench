@@ -1,6 +1,6 @@
 n_trials: 3 # number of times each model runs the full bench
 n_questions: 5 # number of assessment questions pre-generated
-num_ctx: 8192 # Ollama's context window size
+num_ctx: 16384 # Ollama's context window size
 num_predict: 400 # output token hard cap
 temperature: 0.0
 seed: 42
