@@ -1,0 +1,9 @@
+n_trials: 3 # number of times each model runs the full bench
+n_questions: 5 # number of assessment questions pre-generated
+num_ctx: 8192 # Ollama's context window size
+num_predict: 400 # output token hard cap
+temperature: 0.0
+seed: 42
+request_timeout_s: 600
+rss_sample_interval_s: 0.1
+ollama_url: http://localhost:11434

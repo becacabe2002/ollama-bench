@@ -1,0 +1,17 @@
+models:
+  - name: phi4-mini
+    tier: small
+  - name: llama3.2:3b
+    tier: small
+  - name: qwen3.5:4b
+    tier: small
+  - name: gemma3:4b
+    tier: small
+
+# mid tier models
+  - name: qwen3.5:9b
+    tier: mid
+  - name: llama3.1:8b
+    tier: mid
+  - name: ministral3:8b
+    tier: mid
