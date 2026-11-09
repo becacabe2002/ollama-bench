@@ -13,5 +13,5 @@ models:
     tier: mid
   - name: llama3.1:8b
     tier: mid
-  - name: ministral3:8b
+  - name: ministral-3:8b
     tier: mid

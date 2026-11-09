@@ -8,7 +8,7 @@ MODELS=(
   gemma3:4b
   qwen3.5:9b
   llama3.1:8b
-  ministral3:8b
+  ministral-3:8b
 )
 
 for m in "${MODELS[@]}"; do
