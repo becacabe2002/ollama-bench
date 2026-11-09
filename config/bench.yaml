@@ -3,6 +3,7 @@ n_questions: 5 # number of assessment questions pre-generated
 num_ctx: 16384 # Ollama's context window size
 num_predict: 400 # output token hard cap
 temperature: 0.0
+think: false
 seed: 42
 request_timeout_s: 600
 rss_sample_interval_s: 0.1
